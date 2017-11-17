@@ -1,0 +1,7 @@
+Texture Networks: Feed-forward Synthesis of Textures.
+
+Training feed forward convolutional networks to learn and generate multiple textures of a style image using noise tensors of different size as input. 
+
+Here it is done for Z=3 input noise layers, using adam optimizer to train networks parameter from texture image.
+
+Paper - Texture Networks: Feed-forward Synthesis of Textures and Stylized Images: https://arxiv.org/pdf/1603.03417.pdf
